@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SuperTman09/SuperTman09/output/snake.svg" alt="Snake animation" />
-
 ###
