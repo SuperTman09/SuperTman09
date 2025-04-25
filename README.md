@@ -4,6 +4,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">I’m a frontend developer focused on building clean, responsive, and user-friendly web interfaces. I specialize in turning designs into functional code using modern frameworks and best practices. With a strong eye for detail and a passion for great user experience, I enjoy solving problems, improving performance, and constantly learning new technologies to stay current in a fast-moving field.</p>
 
+#
 
 ###
 <h3 align="left">Languages and Tools</h3>
